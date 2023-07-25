@@ -1,0 +1,2 @@
+# Learning
+IntelliJ for Scala
